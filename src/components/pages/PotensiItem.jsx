@@ -55,7 +55,9 @@ const PotensiItem = () => {
               </li>
               <li className="mb-1 flex items-center gap-1">
                 <LocationOnOutlinedIcon />
+                <a href={item.gmaps} className="hover:cursor-pointer text-blue-700 hover:underline" target="_blank" rel="noopener noreferrer">
                 {item.address}
+                </a>
               </li>
               <li className="mb-1 flex items-center gap-1">
                 <LocalPhoneOutlinedIcon />
