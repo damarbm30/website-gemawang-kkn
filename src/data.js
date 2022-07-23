@@ -13,6 +13,15 @@ export const umkm = [
   },
 ];
 
+export const wisata = [
+  {
+
+  },
+  {
+
+  },
+]
+
 export const usaha = [
   // {
   //   id: 1,
@@ -149,7 +158,7 @@ export const usaha = [
     subLink: "rosali-fashion",
     title: "Rosali Fashion",
     category: "fashion",
-    subCategory: ["", "", ""],
+    subCategory: [],
     owner: "Yuliyati",
     address: "RT 01 RW 08, Dusun Guyang Warak, Desa Gemawang",
     gmaps: "https://goo.gl/maps/xqYsMQvbsZmhRNKPA",
