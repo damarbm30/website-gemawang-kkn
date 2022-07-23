@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/website-gemawang-kkn.git/static/css/main.66b959fa.css",
-    "main.js": "/website-gemawang-kkn.git/static/js/main.fa3b1e23.js",
-    "static/media/Wisata.png": "/website-gemawang-kkn.git/static/media/Wisata.c5db6d84a619194fc8d8.png",
-    "static/media/Indonesia-Political-Map.jpg": "/website-gemawang-kkn.git/static/media/Indonesia-Political-Map.902e7203df8f98e29033.jpg",
-    "index.html": "/website-gemawang-kkn.git/index.html",
-    "main.66b959fa.css.map": "/website-gemawang-kkn.git/static/css/main.66b959fa.css.map",
-    "main.fa3b1e23.js.map": "/website-gemawang-kkn.git/static/js/main.fa3b1e23.js.map"
+    "main.css": "/static/css/main.66b959fa.css",
+    "main.js": "/static/js/main.427cdd49.js",
+    "static/media/Wisata.png": "/static/media/Wisata.c5db6d84a619194fc8d8.png",
+    "static/media/Indonesia-Political-Map.jpg": "/static/media/Indonesia-Political-Map.902e7203df8f98e29033.jpg",
+    "index.html": "/index.html",
+    "main.66b959fa.css.map": "/static/css/main.66b959fa.css.map",
+    "main.427cdd49.js.map": "/static/js/main.427cdd49.js.map"
   },
   "entrypoints": [
     "static/css/main.66b959fa.css",
-    "static/js/main.fa3b1e23.js"
+    "static/js/main.427cdd49.js"
   ]
 }
