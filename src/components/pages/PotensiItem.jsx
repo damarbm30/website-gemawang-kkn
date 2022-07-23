@@ -8,6 +8,7 @@ import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import LocalPhoneOutlinedIcon from "@mui/icons-material/LocalPhoneOutlined";
 import WorkOutlineOutlinedIcon from "@mui/icons-material/WorkOutlineOutlined";
 import LocalAtmOutlinedIcon from "@mui/icons-material/LocalAtmOutlined";
+import LocalMallOutlinedIcon from '@mui/icons-material/LocalMallOutlined';
 
 const PotensiItem = () => {
   const { id } = useParams();
@@ -58,6 +59,10 @@ const PotensiItem = () => {
                 <a href={item.gmaps} className="hover:cursor-pointer text-blue-700 hover:underline" target="_blank" rel="noopener noreferrer">
                 {item.address}
                 </a>
+              </li>
+              <li className="mb-1 flex items-center gap-1">
+                <LocalMallOutlinedIcon />
+                {item.ecommerce}
               </li>
               <li className="mb-1 flex items-center gap-1">
                 <LocalPhoneOutlinedIcon />
