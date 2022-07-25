@@ -1,14 +1,15 @@
 import React from "react";
 import ListUsaha from "./ListUsaha";
-import { usaha } from "../../data";
+import { usaha, wisata } from "../../data";
+import ListWisata from "./ListWisata";
 
 const PotensiDaerah = () => {
   return (
     <div>
       <h1 className="mb-12 text-center text-4xl font-bold">Usaha Kecil Menengah</h1>
       <ListUsaha usaha={usaha} />
-      <h1 className="mb-12 text-center text-4xl font-bold">Wisata</h1>
-      {/* <ListUsaha usaha={usaha} /> */}
+      <h1 className="mb-12 text-center text-4xl font-bold">Wisata dan Budaya</h1>
+      <ListWisata wisata={wisata} />
     </div>
   );
 };

@@ -13,58 +13,8 @@ export const umkm = [
   },
 ];
 
-export const wisata = [
-  {
-
-  },
-  {
-
-  },
-]
 
 export const usaha = [
-  // {
-  //   id: 1,
-  //   subLink: "andri-roasting",
-  //   title: "Andri Roasting",
-  //   category: "kopi",
-  //   subCategory: ["jasa roasting", "boga", "industri rumah"],
-  //   owner: "Mas Andri",
-  //   address: "RT 02 RW 07, Dusun Kerep, Desa Gemawang",
-  //   gmaps: "https://goo.gl/maps/XMt8VyhjZvouk3nJ9",
-  //   phone: "08587054072",
-  //   product: "Kopi bubuk dan jasa roasting biji kopi",
-  //   price: "Jasa roasting kopi Rp10.000/kg dan jual bubuk kopi robusta Rp60.000/kg",
-  //   firstParagraph:
-  //     "Andri Roasting adalah salah satu UMKM (Usaha Mikro Kecil Menengah) yang bergerak dalam bidang makanan, tepatnya pada jasa roasting kopi dan pembuatan kopi bubuk jenis robusta. Mas Andri sebagai owner bercerita bahwa awal mula beliau menekuni bidang perkopian adalah lantaran tertarik saat melihat video di Youtube.",
-  //   secondParagraph:
-  //     "Mesin roasting yang digunakan adalah mesin DIY (Do it Yourself) alias handmade. Beliau mempergunakan dandang bakso sebagai tempat cooling biji kopi seusai proses roasting. Biji kopi yang digunakan berasal dari hasil kebun pribadi maupun pembelian dari wilayah lain. Urutan produksi yang dilakukan adalah melalui tahapan roasting, grinding, dan pengemasan menggunakan plastik pouch zipper. Produk yang dihasilkan biasanya dipasarkan di angkringan terdekat.",
-  //   authorName: "Tim KKN Jambu JT092",
-  //   authorAvatar: "/assets/images/logo.png",
-  //   createdAt: "07 Juli, 2022",
-  //   cover: "/assets/images/UMKM/Andri_Roasting.jpeg",
-  // },
-  // {
-  //   id: 2,
-  //   subLink: "madu-aneka-sari",
-  //   title: "Madu Aneka Sari",
-  //   category: "madu",
-  //   subCategory: ["madu", "royal jelly", "bee pollen"],
-  //   owner: "Edy Sumarmo",
-  //   address: "RT 03 RW 01, Dusun Krajan, Desa Gemawang",
-  //   gmaps: "https://goo.gl/maps/7jWSEcka8NL8zqsP9",
-  //   phone: "085726895878",
-  //   product: "Madu kelengkeng, madu randu, dan tepung sari",
-  //   price: "Rp150.000-500.000/botol",
-  //   firstParagraph:
-  //     "Madu Aneka Sari adalah salah satu UMKM (Usaha Mikro Kecil Menengah) Dusun Krajan yang didirikan oleh Bapak Edy Sumarmo. Dilihat dari namanya saja, sudah terbayang jelas dalam pikiran bahwa UMKM ini menawarkan madu sebagai produk utamanya. Pada mulanya, Bapak Edy Sumarmo adalah seorang peternak madu/lebah atau jika menggunakan istilah Desa Gemawang, “penggembala lebah”. Beliau menjalani profesi tersebut sejak tahun 1979-1986 sebelum akhirnya berjualan madunya. Mulai tahun tersebut pula, madu yang diperjualkan bukanlah madu hasil ternakan sendiri melainkan impor dari berbagai wilayah bahkan hingga sejauh Australia.",
-  //   secondParagraph:
-  //     "Madu yang dijual pun beraneka macam, mulai dari madu kelengkeng, rambutan, randu, karet, polen, kaliandra, durian, dan tepung sari. Harga produknya pun bervariasi. Mulai dari Rp150.000 hingga Rp500.000. Hingga saat ini, Pak Edy belum memasarkan produknya melalui toko daring lantaran kerentanan wadah madu yang mengkhawatirkan. Pemesanan dapat dilakukan melalui kontak yang telah diberikan pada awal artikel ini, website Madu Aneka Sari,  maupun mengunjungi kios beliau secara langsung yang berdiri tegak di jalan Magelang-Ambarawa.",
-  //   authorName: "Tim KKN Jambu JT092",
-  //   authorAvatar: "/assets/images/logo.png",
-  //   createdAt: "12 Juli, 2022",
-  //   cover: "/assets/images/UMKM/Aneka_Sari.jpeg",
-  // },
   {
     id: 1,
     subLink: "hafara-shoes",
@@ -79,9 +29,9 @@ export const usaha = [
     product: "Sepatu dan sandal batik",
     price: "Rp150.000-180.000",
     firstParagraph:
-      "Terletak di Dusun Kerep, Hafara adalah salah satu usaha yang berfokus pada bidang fashion, tepatnya pada sepatu batik. Sepatu batik yang dibuat dapat dipesan melalui berbagai platform seperti Facebook, Instagram, maupun Whatsapp. Summer dan Pam adalah contoh merek sol yang digunakan oleh Ibu Nurochmi kala membuat produknya. Pewarna yang digunakan terdiri dari dua macam yakni alami dan sintetis. Nurochmi selaku pemilik menjelaskan bahwa pewarna alami meskipun warnanya tidak terlalu nyentrik atau mencolok, memiliki daya tahan warna yang lama (re: tidak gampang kusam). Sebaliknya, pewarna sintetis yang memiliki warna mencolok justru lebih mudah kusam maupun “kabur”.",
+    "Terletak di Dusun Kerep, Hafara adalah salah satu usaha yang berfokus pada bidang fashion, tepatnya pada sepatu batik. Sepatu batik yang dibuat dapat dipesan melalui berbagai platform seperti Facebook, Instagram, maupun Whatsapp. Summer dan Pam adalah contoh merek sol yang digunakan oleh Ibu Nurochmi kala membuat produknya. Pewarna yang digunakan terdiri dari dua macam yakni alami dan sintetis. Nurochmi selaku pemilik menjelaskan bahwa pewarna alami meskipun warnanya tidak terlalu nyentrik atau mencolok, memiliki daya tahan warna yang lama (re: tidak gampang kusam). Sebaliknya, pewarna sintetis yang memiliki warna mencolok justru lebih mudah kusam maupun “kabur”.",
     secondParagraph:
-      "Harga yang ditawarkan oleh Hafara sangat terjangkau. Sepatu-sepatu yang menawarkan kearifan lokal namun tetap memiliki kesan premium ini dijual pada kisaran Rp120.000,00 hingga Rp180.000,00. Selain membeli berbagai produk yang sudah jadi dan dipajang pada etalase, konsumen juga diperbolehkan untuk me-request sesuai keinginan. Konsumen juga dapat membawa sendiri kain maupun motif batik yang diinginkan. Lokasi UMKM (Usaha Mikro, Kecil, dan Menengah) Hafara sudah tertera di Google Maps dengan kata kunci “Sepatu Batik Hafara” dan dapat dijangkau menggunakan sepeda motor.",
+    "Harga yang ditawarkan oleh Hafara sangat terjangkau. Sepatu-sepatu yang menawarkan kearifan lokal namun tetap memiliki kesan premium ini dijual pada kisaran Rp120.000,00 hingga Rp180.000,00. Selain membeli berbagai produk yang sudah jadi dan dipajang pada etalase, konsumen juga diperbolehkan untuk me-request sesuai keinginan. Konsumen juga dapat membawa sendiri kain maupun motif batik yang diinginkan. Lokasi UMKM (Usaha Mikro, Kecil, dan Menengah) Hafara sudah tertera di Google Maps dengan kata kunci “Sepatu Batik Hafara” dan dapat dijangkau menggunakan sepeda motor.",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
     createdAt: "15 Juli, 2022",
@@ -101,7 +51,7 @@ export const usaha = [
     product: "Kopi robusta bubuk",
     price: "Rp5.000-80.000",
     firstParagraph:
-      "Kopi Pandan Wangie adalah salah satu usaha kopi bubuk yang berdiri di Desa Gemawang, tepatnya pada Dusun Banaran. Pak Hafri Samsuri menjelaskan bahwa biji kopi yang digunakan dalam membuat kopi bubuk berasal dari kebun sendiri maupun membeli ke pengepul apabila stok biji kopi dari kebun habis. Peralatan yang digunakan oleh Pak Hafri dalam mengolah kopinya adalah handmade atau buatan sendiri. Alat yang dibuat sendiri dan digunakan diantaranya adalah mesin roasting dan grinder biji kopi. Alat-alat tersebut dibuat oleh ayah Pak Hafri dan kemudian dilanjutkan penggunaannya oleh Pak Hafri.",
+    "Kopi Pandan Wangie adalah salah satu usaha kopi bubuk yang berdiri di Desa Gemawang, tepatnya pada Dusun Banaran. Pak Hafri Samsuri menjelaskan bahwa biji kopi yang digunakan dalam membuat kopi bubuk berasal dari kebun sendiri maupun membeli ke pengepul apabila stok biji kopi dari kebun habis. Peralatan yang digunakan oleh Pak Hafri dalam mengolah kopinya adalah handmade atau buatan sendiri. Alat yang dibuat sendiri dan digunakan diantaranya adalah mesin roasting dan grinder biji kopi. Alat-alat tersebut dibuat oleh ayah Pak Hafri dan kemudian dilanjutkan penggunaannya oleh Pak Hafri.",
     secondParagraph:
       "Produk kopi yang ditawarkan oleh Pandan Wangie adalah bubuk kopi robusta yang dikemas menggunakan alumunium foil dan diberikan plastik pada bagian luarnya agar aman dari hujan. Kopi bubuk tersebut dipasarkan pada berbagai tempat seperti angkringan, toko kelontong, hingga karyawan PTP. Selain itu, tentunya pemesanan melalui Tokopedia dan Whatsapp juga berlaku. Produk yang dipasarkan sudah mendapat izin PIRT sehingga kualitasnya terjamin.",
     authorName: "Tim KKN Jambu JT092",
@@ -123,9 +73,9 @@ export const usaha = [
     product: "Tas, dompet, dan souvenir",
     price: "Rp2.000-150.000",
     firstParagraph:
-      "Arizqy adalah salah satu UMKM (Usaha Mikro, Kecil, dan Menengah) yang berfokus pada bidang fashion, terkhusus tas, dompet, dan souvenir. UMKM ini terletak pada Dusun Selo, RT 01 RW 05, Gemawang. Ibu Nur Khamami sebagai pemilik awalnya mengikuti pelatihan menjahit hingga kemudian beralih membuka usaha jahit sendiri.",
+    "Arizqy adalah salah satu UMKM (Usaha Mikro, Kecil, dan Menengah) yang berfokus pada bidang fashion, terkhusus tas, dompet, dan souvenir. UMKM ini terletak pada Dusun Selo, RT 01 RW 05, Gemawang. Ibu Nur Khamami sebagai pemilik awalnya mengikuti pelatihan menjahit hingga kemudian beralih membuka usaha jahit sendiri.",
     secondParagraph:
-      "Konsumen dipersilahkan untuk memesan produk Arizqy menggunakan metode custom sesuka selera. Harga yang ditawarkan pada UMKM Arizqy juga terjangkau. Ibu Nur juga memasarkan produknya pada berbagai tempat seperti pasar maupun toko-toko swalayan dimana kemungkinan munculnya konsumen cukup besar.",
+    "Konsumen dipersilahkan untuk memesan produk Arizqy menggunakan metode custom sesuka selera. Harga yang ditawarkan pada UMKM Arizqy juga terjangkau. Ibu Nur juga memasarkan produknya pada berbagai tempat seperti pasar maupun toko-toko swalayan dimana kemungkinan munculnya konsumen cukup besar.",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
     createdAt: "17 Juli, 2022",
@@ -145,31 +95,31 @@ export const usaha = [
     product: "Wedang uwuh",
     price: "Rp30.000/pak (10 pcs)",
     firstParagraph:
-      "Salah satu usaha yang menawarkan produk berupa minuman adalah Shaqueena. Minuman yang ditawarkan adalah wedang uwuh. Pak Bejo selaku pemilik Shaqueena menjelaskan bahwa asal nama usahanya berasal dari nama anaknya. Awal mula pak Bejo memulai usahanya adalah tahun 2017. Bahan-bahan yang digunakan dalam wedang uwuh Shaqueena adalah kayu secang, rondong, cengkeh, gagang cengkeh, kapulaga, jahe, dan gula batu.",
+    "Salah satu usaha yang menawarkan produk berupa minuman adalah Shaqueena. Minuman yang ditawarkan adalah wedang uwuh. Pak Bejo selaku pemilik Shaqueena menjelaskan bahwa asal nama usahanya berasal dari nama anaknya. Awal mula pak Bejo memulai usahanya adalah tahun 2017. Bahan-bahan yang digunakan dalam wedang uwuh Shaqueena adalah kayu secang, rondong, cengkeh, gagang cengkeh, kapulaga, jahe, dan gula batu.",
     secondParagraph:
       "Pak Bejo memasarkan produknya pada beberapa tempat seperti Cafe Banaran, Kopi Eva, Soto Sedep, Condong Raos, Ungaran, dan Semilir. Produk beliau dipasarkan dengan harga terjangkau yakni Rp30.000 per pak.",
-    authorName: "Tim KKN Jambu JT092",
-    authorAvatar: "/assets/images/logo.png",
-    createdAt: "19 Juli, 2022",
-    cover: "/assets/images/UMKM/",
-  },
-  {
-    id: 5,
-    subLink: "rosali-fashion",
-    title: "Rosali Fashion",
-    category: "fashion",
-    subCategory: [],
-    owner: "Yuliyati",
-    address: "RT 01 RW 08, Dusun Guyang Warak, Desa Gemawang",
-    gmaps: "https://goo.gl/maps/xqYsMQvbsZmhRNKPA",
-    ecommerce: "-",
+      authorName: "Tim KKN Jambu JT092",
+      authorAvatar: "/assets/images/logo.png",
+      createdAt: "19 Juli, 2022",
+      cover: "/assets/images/UMKM/",
+    },
+    {
+      id: 5,
+      subLink: "rosali-fashion",
+      title: "Rosali Fashion",
+      category: "fashion",
+      subCategory: [],
+      owner: "Yuliyati",
+      address: "RT 01 RW 08, Dusun Guyang Warak, Desa Gemawang",
+      gmaps: "https://goo.gl/maps/xqYsMQvbsZmhRNKPA",
+      ecommerce: "-",
     phone: "085325088112",
     product: "Jasa jahit",
-    price: "Tergantung kesulitan pesanan",
+    price: "Mulai dari Rp50.000",
     firstParagraph:
-      "",
+    "Rosali Fashion yang berlokasi di Dusun Guyang Warak adalah usaha yang berfokus pada bidang sandang. Ibu Yuliyati, sebagai pemilik, mengungkapkan bahwa nama Rosali adalah nama anaknya yang kemudian diadopsi sebagai nama usahanya. Produk yang dihasilkan oleh Rosali Fashion diantaranya adalah gamis, kemeja, celana, baju koko, pakaian anak-anak maupun pakaian wanita.",
     secondParagraph:
-      "",
+    "Sistem pemasaran yang diimplementasikan oleh Rosali Fashion adalah pre-order. Bahan yang dipergunakan didapat dari rekan kerja maupun dicari secara mandiri. Ibu Yuliyati mengerjakan berbagai pesanan yang datang sendirian. Akan tetapi, jika suatu saat pesanan yang datang berjumlah banyak, maka beliau akan mengerjakannya bersama rekannya. Harga yang dipatok oleh Rosali Fashion berkisar mulai Rp50.000,00 untuk hem atau kemeja dan Rp70.000,00 hingga Rp80.000,00 untuk gamis. Ukuran yang tersedia adalah S, M, dan L. Pesanan yang sering menghampiri pintu rumah beliau adalah pesanan dari SD maupun baju koko ketika Bulan Ramadhan. Customer dapat langsung mengunjungi rumah beliau di Dusun Guyang Warak RT 01 RW 08.",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
     createdAt: "21 Juli, 2022",
@@ -189,34 +139,101 @@ export const usaha = [
     product: "Kotak lebah dan pesanan meubel",
     price: "Rp150.000/kotak",
     firstParagraph:
-      "Kayu Anugerah Kreatif adalah salah satu UMKM (Usaha Mikro, Kecil, dan Menengah) yang bergerak dalam bidang craft. Pak Hartanto sebagai pemilik menjelaskan bahwa usahanya memiliki fokus utama pada pembuatan boks sarang lebah. Usaha ini telah berdiri sejak tahun 2006 dan menurut pemilik, mengalami peningkatan order yang signifikan pada masa pandemi. Hal ini dapat dimengerti karena ketika pandemi Covid-19, manusia jarang keluar rumah dan berinteraksi dengan alam. Dalam kondisi demikian, alam memiliki keleluasaan untuk merevitalisasi dirinya. Para peternak lebah tentunya melihat ini sebagai kesempatan untuk mengembangkan bisnisnya yang pada gilirannya berimbas pada jumlah permintaan boks lebah.",
+    "Kayu Anugerah Kreatif adalah salah satu UMKM (Usaha Mikro, Kecil, dan Menengah) yang bergerak dalam bidang craft. Pak Hartanto sebagai pemilik menjelaskan bahwa usahanya memiliki fokus utama pada pembuatan boks sarang lebah. Usaha ini telah berdiri sejak tahun 2006 dan menurut pemilik, mengalami peningkatan order yang signifikan pada masa pandemi. Hal ini dapat dimengerti karena ketika pandemi Covid-19, manusia jarang keluar rumah dan berinteraksi dengan alam. Dalam kondisi demikian, alam memiliki keleluasaan untuk merevitalisasi dirinya. Para peternak lebah tentunya melihat ini sebagai kesempatan untuk mengembangkan bisnisnya yang pada gilirannya berimbas pada jumlah permintaan boks lebah.",
     secondParagraph:
-      "Pak Hartanto memasarkan produknya melalui Whatsapp dan mulut ke mulut. Pangsa pasar Kayu Anugerah Kreatif sudah menjangkau berbagai wilayah seperti Kediri, Blitar, dan Banyuwangi. Satu boks lebah dipasarkan seharga Rp150.000,00. Selain boks lebah, Kayu Anugerah Kreatif juga menerima orderan mebel yang lain seperti gerobak bakso, lemari, kursi, maupun meja. Bahan dasar pembuatan berbagai macam perkakas tersebut adalah kayu surian yang diklaim mampu bertahan hingga 5-10 tahun dan kayu pinus yang mampu bertahan hingga 3 tahun. Peralatan yang digunakan oleh Pak Hartanto adalah peralatan modern sehingga mempermudah pekerjaannya. Dalam sebulan, beliau mampu menyelesaikan hingga 500 buah boks lebah. Konsumen dapat langsung datang dan berbincang dengan Pak Hartanto di workshop-nya yang terletak di RT 03 RW 03 Banaran, Desa Gemawang.",
+    "Pak Hartanto memasarkan produknya melalui Whatsapp dan mulut ke mulut. Pangsa pasar Kayu Anugerah Kreatif sudah menjangkau berbagai wilayah seperti Kediri, Blitar, dan Banyuwangi. Satu boks lebah dipasarkan seharga Rp150.000,00. Selain boks lebah, Kayu Anugerah Kreatif juga menerima orderan mebel yang lain seperti gerobak bakso, lemari, kursi, maupun meja. Bahan dasar pembuatan berbagai macam perkakas tersebut adalah kayu surian yang diklaim mampu bertahan hingga 5-10 tahun dan kayu pinus yang mampu bertahan hingga 3 tahun. Peralatan yang digunakan oleh Pak Hartanto adalah peralatan modern sehingga mempermudah pekerjaannya. Dalam sebulan, beliau mampu menyelesaikan hingga 500 buah boks lebah. Konsumen dapat langsung datang dan berbincang dengan Pak Hartanto di workshop-nya yang terletak di RT 03 RW 03 Banaran, Desa Gemawang.",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
-    createdAt: " Juli, 2022",
+    createdAt: "23 Juli, 2022",
     cover: "/assets/images/UMKM/",
   },
+  {
+      id: 7,
+      subLink: "ropi-garmen",
+      title: "Ropi Garmen",
+      category: "Fashion",
+      subCategory: ["Jasa jahit", "Pakaian", "Seragam"],
+      owner: "Isrofi",
+      address: "RT 02 RW 07, Dusun Kerep, Desa Gemawang",
+      gmaps: "",
+      ecommerce: "-",
+      phone: "085848837017",
+      product: "Jasa jahit",
+      price: "Rp50.000 untuk hem lengan pendek dan Rp70.000-80.000 untuk hem lengan panjang",
+      firstParagraph:
+        "Namanya adalah Isrofi, seorang penjahit kondang asal Desa Gemawang. Inspirasi awal Pak Ropi dalam menjahit adalah karena dulu beliau menginginkan baju akan tetapi saat itu belum memiliki uang. Dengan keinginan yang kuat, beliau belajar kepada tetangganya bagaimana cara menjahit. Berawal dari situ, beliau terus menambah kemampuannya terkait urusan jahit-menjahit melalui seminar yang diikuti.",
+      secondParagraph:
+        "Beliau memasarkan jasa jahitnya secara langsung kepada instansi-instansi yang memiliki potensi. Pemesanan jasa beliau dapat dilakukan melalui WhatsApp maupun datang langsung ke workshop-nya di Dusun Kerep RT 02 RW 07. Ropi Garmen sanggup membuatkan berbagai macam pakaian, mulai dari celana, hem, jas, maupun kemeja biasa. Dalam menjalankan usahanya, beliau merekrut teman-temannya dan menjalin hubungan kerjasama mutualisme yang apik. Jasa jahit Ropi Garmen terhitung murah meski tetap mengambil patokan dari jenis dan kain baju yang diinginkan. Beliau berkali-kali menekankan untuk meningkatkan mental karena sangatlah penting bagi kemajuan karir. Saat ini, berkat usaha, doa, dan mental beliau yang kuat, Ropi Garmen menerima banyak pesanan penting dari berbagai tempat seperti Puskesmas, KORPRI, kampus, sekolah, maupun pesanan pribadi. Jasa jahit beliau patut diperhitungkan apabila mencari penjahit yang mampu membuatkan pakaian dengan ukuran pas.",
+      authorName: "Tim KKN Jambu JT092",
+      authorAvatar: "/assets/images/logo.png",
+      createdAt: "25 Juli, 2022",
+      cover: "/assets/images/UMKM/Ropi_Garmen.jpeg",
+    },
+  {
+      id: 8,
+      subLink: "yu-ani-cake",
+      title: "Yu Ani Cake and Cookies",
+      category: "Makanan",
+      subCategory: ["Kue", "", ""],
+      owner: "Ani",
+      address: "RT 01 RW 03, Dusun Banaran, Desa Gemawang",
+      gmaps: "https://goo.gl/maps/AN4VatusjGBynE3d8",
+      ecommerce: "yuu_anii (Instagram)",
+      phone: "088980880322/083150191155",
+      product: "Kue custom dan kue kering",
+      price: "Mulai dari Rp25.000",
+      firstParagraph:
+        "Yu Ani Cake adalah satu-satunya UMKM Desa Gemawang yang memiliki spesialisasi pada bidang cake atau kue. Mbak Ani sebagai pemilik mengakui bahwa beliau sudah senang membuat kue sejak kecil. Latihan bertahun-tahun yang dijalankan sekaligus sebagai hobi memampukan Mbak Ani untuk membuka usaha ini. Awal mula kemunculan usaha ini adalah pada tahun 2019 ketika Mbak Ani dimintai tolong untuk membuat kue ulang tahun. Dengan hasil yang baik, beliau mencoba peruntungannya dengan mempromosikan kuenya dan terbukti berhasil hingga mampu berlanjut hingga sekarang.",
+      secondParagraph:
+        "Pemasaran kue buatan Mbak Ani dapat dilihat sekaligus dipesan melalui Instagram maupun WhatsApp beliau. Selain kue, Yu Ani Cake juga menerima pesanan brownies dan aneka kue kering seperti nastar, kastengel, kacang, dan putri salju. Berbagai alat seperti mixer, oven, squid, dan selainnya sudah tersedia sebagai senjata Mbak Ani untuk menggeluti usahanya. Harga produk yang dipasarkan mulai dari Rp25.000,00. Rumah Mbak Ani terletak pada RT 01 RW 03 Dusun Banaran, Desa Gemawang dan dapat dengan mudah dicapai menggunakan mobil maupun sepeda motor.",
+      authorName: "Tim KKN Jambu JT092",
+      authorAvatar: "/assets/images/logo.png",
+      createdAt: "25 Juli, 2022",
+      cover: "/assets/images/UMKM/Yu_Ani_Cake.jpg",
+    },
   // {
-  //   id: ,
-  //   subLink: "",
-  //   title: "",
-  //   category: "",
-  //   subCategory: ["", "", ""],
-  //   owner: "",
-  //   address: "",
-  //   gmaps: "",
-  //   ecommerce: "",
-  //   phone: "",
-  //   product: "",
-  //   price: "",
-  //   firstParagraph:
-  //     "",
-  //   secondParagraph:
-  //     "",
-  //   authorName: "Tim KKN Jambu JT092",
-  //   authorAvatar: "/assets/images/logo.png",
-  //   createdAt: " Juli, 2022",
-  //   cover: "/assets/images/UMKM/",
-  // },
-];
+  //     id: ,
+  //     subLink: "",
+  //     title: "",
+  //     category: "",
+  //     subCategory: ["", "", ""],
+  //     owner: "",
+  //     address: "",
+  //     gmaps: "",
+  //     ecommerce: "",
+  //     phone: "",
+  //     product: "",
+  //     price: "",
+  //     firstParagraph:
+  //       "",
+  //     secondParagraph:
+  //       "",
+  //     authorName: "Tim KKN Jambu JT092",
+  //     authorAvatar: "/assets/images/logo.png",
+  //     createdAt: " Juli, 2022",
+  //     cover: "/assets/images/UMKM/",
+  //   },
+  ];
+  
+  export const wisata = [
+    {
+      id: 1,
+      title: "Gunung Watu",
+      desc: "Gunung Watu adalah tempat wisata alam di Desa Gemawang berupa tumpukan batu-batu besar di atas bukit. Menurut legenda, Gunung Watu terbentuk karena kutukan dari Sunan Katong kepada Paku Wojo yang telah menyalahgunakan kerisnya. Wisata ini terletak di Dusun Kerep.",
+      secondDesc: "",
+      authorName: "Tim KKN Jambu JT092",
+      authorAvatar: "/assets/images/logo.png",
+      createdAt: "24 Juli, 2022",
+      cover: "/assets/images/Wisata/Gunung_Watu.png",
+    },
+    {
+      id: 2,
+      title: "Batik Losari",
+      desc: "Di bawah Yayasan Losari, Batik Losari mulai memproduksi batik tulis dengan warna alami sejak 2006. Studio batik pertama yang dimiliki adalah Omah Batik Jlamprang yang terletak di Jlamprang, Gemawang. Batik Losari memilih filosofi tanaman atau objek di sekitar untuk motif batik tulis yang dibuat. Identitas dari Batik Losari adalah “women, culture and nature”.",
+      secondDesc: "",
+      authorName: "Tim KKN Jambu JT092",
+      authorAvatar: "/assets/images/logo.png",
+      createdAt: "25 Juli, 2022",
+      cover: "/assets/images/Wisata/Batik_Losari.jpg",
+    },
+  ]

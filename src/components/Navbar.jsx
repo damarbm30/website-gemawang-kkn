@@ -28,14 +28,6 @@ const Header = () => {
           </li>
           <li className="h-20 transition-all hover:text-white">
             <Link
-              to="/artikel"
-              className="flex h-full items-center py-3 hover:border-b-4 hover:border-solid hover:border-white hover:transition-all"
-            >
-              Artikel
-            </Link>
-          </li>
-          <li className="h-20 transition-all hover:text-white">
-            <Link
               to="/potensi-daerah"
               className="flex h-full items-center py-3 hover:border-b-4 hover:border-solid hover:border-white hover:transition-all"
             >
@@ -72,13 +64,6 @@ const Header = () => {
               onClick={closeMobileMenu}
             >
               <li>Beranda</li>
-            </Link>
-            <Link
-              to="/artikel"
-              className="my-4 py-8 text-3xl hover:bg-slate-500 hover:text-white"
-              onClick={closeMobileMenu}
-            >
-              <li>Artikel</li>
             </Link>
             <Link
               to="/potensi-daerah"

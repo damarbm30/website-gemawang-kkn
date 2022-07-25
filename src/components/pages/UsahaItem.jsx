@@ -48,8 +48,8 @@ const PotensiItem = () => {
             </div>
           </header>
           <img src={item.cover} alt="cover" className="w-full rounded-2xl px-2 md:px-0" />
-          <div className="m-2 mt-4 justify-center rounded-xl bg-white p-4 shadow-2xl">
-            <ul className="mt-4 ml-4">
+          <div className="m-2 justify-center rounded-xl bg-white p-4 shadow-2xl">
+            <ul className="ml-4">
               <li className="mb-1 flex items-center gap-1">
                 <PersonOutlineOutlinedIcon />
                 {item.owner}
