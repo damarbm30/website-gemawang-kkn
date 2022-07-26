@@ -83,11 +83,11 @@ export const usaha = [
   },
   {
     id: 4,
-    subLink: "shaqueena-bejo",
-    title: "Shaqueena Bejo",
+    subLink: "shaquena-bejo",
+    title: "Shaquena Bejo",
     category: "minuman",
     subCategory: ["minuman", "rempah", "tradisional"],
-    owner: "Nur Khamami",
+    owner: "Partiman",
     address: "RT 01 RW 08, Dusun Guyang Warak, Desa Gemawang",
     gmaps: "https://goo.gl/maps/xqYsMQvbsZmhRNKPA",
     ecommerce: "Shaquenabejo (Tokopedia), shaquenabejo (Bukalapak), Shaquena (Facebook), Shaquena (Instagram)",
@@ -101,7 +101,7 @@ export const usaha = [
       authorName: "Tim KKN Jambu JT092",
       authorAvatar: "/assets/images/logo.png",
       createdAt: "19 Juli, 2022",
-      cover: "/assets/images/UMKM/",
+      cover: "/assets/images/UMKM/Shaquena.png",
     },
     {
       id: 5,
