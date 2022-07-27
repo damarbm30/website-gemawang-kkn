@@ -3,7 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import EmptyList from "../common/EmptyList";
 import { wisata } from "../../data";
 
-const WisataItem = () => {
+const WisataPage = () => {
     const { id } = useParams();
     const [item, setItem] = useState(null);
 
@@ -47,7 +47,7 @@ const WisataItem = () => {
                 )}
             </div>
         </div>
-    )
+      )
     }
 
-export default WisataItem;
+export default WisataPage;

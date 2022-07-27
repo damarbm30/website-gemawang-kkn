@@ -10,7 +10,7 @@ import WorkOutlineOutlinedIcon from "@mui/icons-material/WorkOutlineOutlined";
 import LocalAtmOutlinedIcon from "@mui/icons-material/LocalAtmOutlined";
 import LocalMallOutlinedIcon from '@mui/icons-material/LocalMallOutlined';
 
-const PotensiItem = () => {
+const UsahaPage = () => {
   const { id } = useParams();
   const [item, setItem] = useState(null);
 
@@ -88,4 +88,4 @@ const PotensiItem = () => {
   );
 };
 
-export default PotensiItem;
+export default UsahaPage;
