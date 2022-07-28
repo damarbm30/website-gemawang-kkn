@@ -8,7 +8,7 @@ import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import LocalPhoneOutlinedIcon from "@mui/icons-material/LocalPhoneOutlined";
 import WorkOutlineOutlinedIcon from "@mui/icons-material/WorkOutlineOutlined";
 import LocalAtmOutlinedIcon from "@mui/icons-material/LocalAtmOutlined";
-import LocalMallOutlinedIcon from '@mui/icons-material/LocalMallOutlined';
+import LocalMallOutlinedIcon from "@mui/icons-material/LocalMallOutlined";
 
 const UsahaPage = () => {
   const { id } = useParams();
@@ -35,9 +35,7 @@ const UsahaPage = () => {
       {item ? (
         <div className="my-0 mx-auto max-w-[700px]">
           <header className="text-center">
-            <p className="text-xs font-medium text-gray-400">
-              Dipublikasikan pada {item.createdAt}
-            </p>
+            <p className="text-xs font-medium text-gray-400">Dipublikasikan pada {item.createdAt}</p>
             <h1 className="text-3xl font-bold md:text-4xl">{item.title}</h1>
             <div className="flex justify-center gap-4">
               {item.subCategory.map((category, index) => (
@@ -56,8 +54,13 @@ const UsahaPage = () => {
               </li>
               <li className="mb-1 flex items-center gap-1">
                 <LocationOnOutlinedIcon />
-                <a href={item.gmaps} className="hover:cursor-pointer text-blue-700 hover:underline" target="_blank" rel="noopener noreferrer">
-                {item.address}
+                <a
+                  href={item.gmaps}
+                  className="text-blue-700 hover:cursor-pointer hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {item.address}
                 </a>
               </li>
               <li className="mb-1 flex items-center gap-1">

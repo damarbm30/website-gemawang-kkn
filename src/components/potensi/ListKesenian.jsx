@@ -1,5 +1,5 @@
-import React from 'react';
-import ItemKesenian from './ItemKesenian';
+import React from "react";
+import ItemKesenian from "./ItemKesenian";
 
 const ListKesenian = ({ kesenian }) => {
   return (
@@ -8,7 +8,7 @@ const ListKesenian = ({ kesenian }) => {
         <ItemKesenian kesenian={kesenian} key={kesenian.id} />
       ))}
     </div>
-  )
-}
+  );
+};
 
-export default ListKesenian
+export default ListKesenian;
