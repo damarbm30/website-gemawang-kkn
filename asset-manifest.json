@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e48dfbf0.css",
-    "main.js": "/static/js/main.91daad4a.js",
+    "main.css": "/static/css/main.161e4177.css",
+    "main.js": "/static/js/main.92b9786d.js",
     "static/media/Wisata.png": "/static/media/Wisata.c5db6d84a619194fc8d8.png",
     "static/media/Indonesia-Political-Map.jpg": "/static/media/Indonesia-Political-Map.902e7203df8f98e29033.jpg",
     "index.html": "/index.html",
-    "main.e48dfbf0.css.map": "/static/css/main.e48dfbf0.css.map",
-    "main.91daad4a.js.map": "/static/js/main.91daad4a.js.map"
+    "main.161e4177.css.map": "/static/css/main.161e4177.css.map",
+    "main.92b9786d.js.map": "/static/js/main.92b9786d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e48dfbf0.css",
-    "static/js/main.91daad4a.js"
+    "static/css/main.161e4177.css",
+    "static/js/main.92b9786d.js"
   ]
 }
