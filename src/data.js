@@ -404,6 +404,7 @@ export const kesenian = [
     authorAvatar: "/assets/images/logo.png",
     createdAt: " Juli, 2022",
     cover: "/assets/images/Kesenian/TopengIreng/Topeng Ireng 1.jpg",
+    img: ["/assets/images/Kesenian/TopengIreng/Topeng Ireng 1.jpg", "/assets/images/Kesenian/TopengIreng/Topeng Ireng 2.jpg", "/assets/images/Kesenian/TopengIreng/Topeng Ireng 3.jpg"],
   },
   {
     id: 2,
@@ -416,6 +417,7 @@ export const kesenian = [
     authorAvatar: "/assets/images/logo.png",
     createdAt: " Juli, 2022",
     cover: "/assets/images/Kesenian/KubroSiswo/Kubro Siswo 1.jpeg",
+    img: ["/assets/images/Kesenian/KubroSiswo/Kubro Siswo 1.jpeg", "/assets/images/Kesenian/KubroSiswo/Kubro Siswo 2.jpeg", "/assets/images/Kesenian/KubroSiswo/Kubro Siswo 3.jpeg"],
   },
   {
     id: 3,
@@ -428,6 +430,7 @@ export const kesenian = [
     authorAvatar: "/assets/images/logo.png",
     createdAt: " Juli, 2022",
     cover: "/assets/images/Kesenian/Wisanggeni/Wisanggeni 1.jpeg",
+    img: ["/assets/images/Kesenian/Wisanggeni/Wisanggeni 1.jpeg", "/assets/images/Kesenian/Wisanggeni/Wisanggeni 2.jpeg", "/assets/images/Kesenian/Wisanggeni/Wisanggeni 3.jpeg"],
   },
   {
     id: 4,
@@ -440,5 +443,6 @@ export const kesenian = [
     authorAvatar: "/assets/images/logo.png",
     createdAt: " Juli, 2022",
     cover: "/assets/images/Kesenian/Reog/Reog 1.jpeg",
+    img: ["/assets/images/Kesenian/Reog/Reog 1.jpeg", "/assets/images/Kesenian/Reog/Reog 2.jpeg", "/assets/images/Kesenian/Reog/Reog 3.jpeg"],
   },
 ]
