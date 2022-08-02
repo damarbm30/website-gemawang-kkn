@@ -405,7 +405,7 @@ export const kesenian = [
       "Jumlah pemain Topeng Ireng dan Kewanan adalah sekitar 12 orang dengan durasi pertunjukan Topeng Ireng sekitar 30 menit kemudian dilanjutkan Kewanan sekitar 20 menit. Adapun pemainnya merupakan anak-anak usia SMP, SMA, maupun orang dewasa yang ada di desa. Persiapan untuk melakukan sebuah pertunjukan biasanya dilakukan sebulan sebelum pertunjukan dilaksanakan. Persiapan yang cukup lama tersebut diperlukan karena tarian atau formasi setiap pertunjukan bisa berbeda sehingga membutuhkan waktu untuk membuatnya. Pertunjukan Topeng Ireng dan Kewanan tetap menggunakan instrumen, seperti gendang, jidor, angklung, dan lain-lain agar nuansa klasiknya tidak hilang. ",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
-    createdAt: " Juli, 2022",
+    createdAt: "26 Juli, 2022",
     cover: "/assets/images/Kesenian/TopengIreng/Topeng Ireng 1.jpg",
     img: [
       "/assets/images/Kesenian/TopengIreng/Topeng Ireng 1.jpg",
@@ -425,7 +425,7 @@ export const kesenian = [
     fourth: "",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
-    createdAt: " Juli, 2022",
+    createdAt: "27 Juli, 2022",
     cover: "/assets/images/Kesenian/KubroSiswo/Kubro Siswo 1.jpeg",
     img: [
       "/assets/images/Kesenian/KubroSiswo/Kubro Siswo 1.jpeg",
@@ -445,7 +445,7 @@ export const kesenian = [
     fourth: "",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
-    createdAt: " Juli, 2022",
+    createdAt: "30 Juli, 2022",
     cover: "/assets/images/Kesenian/Wisanggeni/Wisanggeni 1.jpeg",
     img: [
       "/assets/images/Kesenian/Wisanggeni/Wisanggeni 1.jpeg",
@@ -465,7 +465,7 @@ export const kesenian = [
     fourth: "",
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
-    createdAt: " Juli, 2022",
+    createdAt: "31 Juli, 2022",
     cover: "/assets/images/Kesenian/Reog/Reog 1.jpeg",
     img: [
       "/assets/images/Kesenian/Reog/Reog 1.jpeg",
