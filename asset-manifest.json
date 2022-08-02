@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.161e4177.css",
-    "main.js": "/static/js/main.3a634480.js",
+    "main.css": "/static/css/main.7a4dc1ad.css",
+    "main.js": "/static/js/main.6a4e33c3.js",
     "static/media/Wisata.png": "/static/media/Wisata.c5db6d84a619194fc8d8.png",
     "index.html": "/index.html",
-    "main.161e4177.css.map": "/static/css/main.161e4177.css.map",
-    "main.3a634480.js.map": "/static/js/main.3a634480.js.map"
+    "main.7a4dc1ad.css.map": "/static/css/main.7a4dc1ad.css.map",
+    "main.6a4e33c3.js.map": "/static/js/main.6a4e33c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.161e4177.css",
-    "static/js/main.3a634480.js"
+    "static/css/main.7a4dc1ad.css",
+    "static/js/main.6a4e33c3.js"
   ]
 }
