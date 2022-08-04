@@ -210,7 +210,7 @@ export const usaha = [
     authorName: "Tim KKN Jambu JT092",
     authorAvatar: "/assets/images/logo.png",
     createdAt: "26 Juli, 2022",
-    cover: "/assets/images/UMKM/",
+    cover: "/assets/images/UMKM/Enda.jpeg",
   },
   {
     id: 10,
