@@ -15,8 +15,8 @@ const Hero = () => {
           </p>
           <p className="mx-4 mt-6 text-justify text-lg md:text-2xl">
             Desa Gemawang terdiri dari 7 dusun, yaitu Krajan, Banaran, Pitoro, Sekaja, Jlamprang, Kerep, dan Guyang
-            Warak. Di beberapa dusun yang ada tersebar berbagai UKM seperti makanan dan minuman, <em>fashion</em>, dan
-            kerajinan. Selain itu, di Desa Gemawang juga terdapat wisata budaya, edukasi, dan alam
+            Warak. Di beberapa dusun yang ada tersebar berbagai UMKM seperti makanan dan minuman, <em>fashion</em>, dan
+            kerajinan yang dapat dilihat di situs <a href="http://gemawangmendunia.com/" className="text-blue-600 hover:text-blue-500">gemawangmendunia.com</a>. Selain itu, di Desa Gemawang juga terdapat wisata budaya, edukasi, dan alam
           </p>
         </div>
         <div className="mx-4 flex min-w-[280px] flex-col rounded-xl border border-slate-300 bg-zinc-200 text-center shadow-xl">
